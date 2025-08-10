@@ -1,0 +1,101 @@
+Here’s your parsed resume information in the requested template format:
+
+---
+
+**Personal Information**
+
+* **Full Name:** Atanu Maity
+* **Job Title/Profession:** Senior Data Scientist / Associate Manager
+* **Contact Details:**
+
+  * Email: [amrkmrc@gmail.com](mailto:amrkmrc@gmail.com)
+  * Phone: +91-8016956715
+  * Location: India
+* **Brief Bio/Summary:**
+  Senior Data Scientist with 9+ years of experience in AI/ML, specializing in Generative AI, NLP, Computer Vision, and Knowledge Graphs. Proven track record in building and deploying end-to-end machine learning solutions, fine-tuning LLMs, and leading AI-driven automation projects. Strong leadership, mentoring, and problem-solving skills with recognition for innovation and contributions to AI centers of excellence.
+
+---
+
+**Education**
+
+* **Master of Science in Mathematics** – Guru Ghasidas Central University, CG, India (May 2010 – April 2012) | Percentage: 48.2
+  Courses: Abstract Algebra, Linear Algebra, Fluid Dynamics, Mechanics, Calculus, PDE, Machine Learning, Deep Learning
+* **Bachelor of Science in Mathematics** – Calcutta University, Kolkata, India (April 2006 – March 2009) | Percentage: 54
+  Courses: Linear Algebra, Numerical Analysis, Real Analysis, Vector Analysis, Functional Analysis, Complex Analysis
+
+---
+
+**Work Experience**
+
+* **Accenture** – Senior Data Scientist (Associate Manager) | Sep 2024 – Present
+
+  * Fine-tuned GPT-2 small on domain-specific data using LoRA PEFT
+  * Developed and integrated custom retry configuration for LLM API endpoints
+  * Designed API routing strategy for unifying diverse LLM payload structures
+
+* **Capgemini** – Senior Data Scientist | June 2021 – Sep 2024
+
+  * Built and deployed Knowledge Graph based Q\&A system
+  * Developed a custom search engine for failure analysis reports
+  * Automated complex dashboard generation pipelines with Selenium and Python
+
+* **Ayata** – Lead Data Scientist | Apr 2016 – June 2021
+
+  * Built fraud detection model using custom embeddings from claim adjuster notes
+  * Designed LSTM-based weather forecasting system integrating radar and satellite data
+  * Developed CNN + YOLO-based hail damage detection model
+  * Delivered predictive models for insurance domain using RF, LightGBM, XGBoost, HMM
+
+* **Karvy Analytics Ltd** – Data Scientist | Apr 2015 – Mar 2016
+
+  * Predicted CLV using unsupervised learning on RFM factors
+
+---
+
+**Skills**
+
+* **Domains & Techniques:** Data Science, Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI, Prompt Engineering, Knowledge Graphs, Quantization, Transfer Learning, Few Shot Learning, PEFT, RAG
+* **Algorithms:** LightGBM, RF, SVM, KNN, K-Means, Naive Bayes, PCA, SVD, DBScan, t-SNE, Apriori, LDA, CNN, RNN, LSTM, Transformer, Autoencoder, ResNet, U-Net, GANs, Attention Mechanisms
+* **Languages:** Python, R, SQL, Bash, C, Cypher
+* **Frameworks & Libraries:** NumPy, Scikit-learn, NLTK, SpaCy, TensorFlow, Keras, PyTorch, OpenCV, Flask, FastAPI, PySpark, Poetry, Pre-commit, Dataiku
+* **Tools & Platforms:** Docker, Git, Airflow, MLflow, MySQL, Neo4j, GitHub Actions, Linux, Windows, Web, Azure, AWS
+* **Soft Skills:** Leadership, Mentoring, Time Management, Writing, Continuous Learning
+
+---
+
+**Portfolio Projects**
+
+1. **GENAI Hub** (Generative AI, Prompt Engineering, NLP)
+
+   * Developed GenAI-based use cases and integrated into Flask WebApp using LangChain, RAG, Azure AI services.
+   * *Category:* Generative AI / NLP
+
+2. **OCR - NLP Search Engine**
+
+   * Hybrid keyword + semantic search engine for faster information retrieval using Sentence Transformers, Faiss, and LayoutParser.
+   * *Category:* NLP / Search Engine
+
+3. **Masked Language Model Training**
+
+   * Trained a domain-specific masked LM with custom tokenizer and attention mechanisms in PyTorch.
+   * *Category:* NLP / Language Modeling
+
+4. **GPT-2 Training from Scratch**
+
+   * Built a decoder-only transformer from scratch with PyTorch on RTX-2090 GPU.
+   * *Category:* NLP / Generative AI
+
+---
+
+**Social Media Links**
+
+* **GitHub:** [github.com/ytiam](https://github.com/ytiam)
+* **LinkedIn:** [linkedin.com/in/ytiam](https://www.linkedin.com/in/ytiam)
+* **Medium Blogs:**
+
+  * [AirFlow and MLFlow Integration](https://medium.com/p/d93e193b8b74)
+  * [Social Media Analytics in Pharma](https://medium.com/analytics-vidhya/social-media-analytics-in-pharma-use-case-part-1-99ca5443739d)
+
+---
+
+If you want, I can now convert this into a **modern, ATS-friendly resume format** while keeping all your details intact. Would you like me to do that next?
